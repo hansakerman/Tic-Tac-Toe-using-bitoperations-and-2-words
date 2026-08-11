@@ -25,7 +25,7 @@ Down below was just some loose ideas : D The implementation became something dif
    Mask: binary: 00000001 1111 1111  hex: 0x01FF
 
    Later on we might check how the compiler translates this to machine code on different
-   architectures like x86_64, arm64e, 6502 and Z80.
+   architectures like x86_64, arm64e, 68k.
 
    we are trading clarity with a dose of insanity.
    what we could have done very easy we are doing this way.
