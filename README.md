@@ -1,4 +1,4 @@
-This is just loose ideas : D THe implemention became something else.
+Down below was just some loose ideas : D The implementation became something different. But still silly.
 
 // Computer player that searches for solution. There is a 
 /* Let's play a game of tic tac toe? Pen and paper you say? Nah.
